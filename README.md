@@ -48,11 +48,15 @@ contribute
    
    
   **table**    
-  |Name|branch|college|     
-  |-----|-----|------|    
+  |Name|branch|college|  
+  
+  |-----|-----|------|   
+  
   |yash|cse|vrsec|    
-  |venky|cse|vrsec|     
- </tc>
+  
+  |venky|cse|vrsec|    
+  
+ 
  
  **code**    
  ````python
