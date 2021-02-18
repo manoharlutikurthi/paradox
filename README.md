@@ -50,7 +50,7 @@ contribute
   **table**    
   |Name|branch|college|  
   
-  |----|----|----|   
+  
   
   |yash|cse|vrsec|    
   
